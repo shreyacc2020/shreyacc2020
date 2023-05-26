@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shreyacc2020
 - 👀 I’m interested in programming.
-- 🌱 I’m currently a MCS student at UIC
 - 💞️ I’m looking to collaborate on app development projects
 
 <!---
